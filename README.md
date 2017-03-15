@@ -1,1 +1,2 @@
-# TP2 Grafos
+# TP2 
+# Grafos - Caminhamento min em um labirinto
